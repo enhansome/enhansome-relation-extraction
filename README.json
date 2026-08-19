@@ -1,348 +1,354 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Convolution Neural Network for Relation Extraction [paper]",
+                  "description": "[code] [review]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 110631554,
+                    "language": "Python",
+                    "last_commit": "2018-10-26T09:23:27Z",
+                    "owner": "roomylee",
+                    "repo": "cnn-relation-extraction",
+                    "stars": 218
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Relation Classification via Convolutional Deep Neural Network [paper]",
+                  "description": "[code] [review]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 110631554,
+                    "language": "Python",
+                    "last_commit": "2018-10-26T09:23:27Z",
+                    "owner": "roomylee",
+                    "repo": "cnn-relation-extraction",
+                    "stars": 218
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Relation Extraction: Perspective from Convolutional Neural Networks [paper]",
+                  "description": "[code] [review]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 110631554,
+                    "language": "Python",
+                    "last_commit": "2018-10-26T09:23:27Z",
+                    "owner": "roomylee",
+                    "repo": "cnn-relation-extraction",
+                    "stars": 218
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Relation Classification via Multi-Level Attention CNNs [paper]",
+                  "description": "[code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 103348658,
+                    "language": "Python",
+                    "last_commit": "2022-08-23T01:41:25Z",
+                    "owner": "dgai91",
+                    "repo": "pytorch-acnn-model",
+                    "stars": 178
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Classifying Relations by Ranking with Convolutional Neural Networks [paper]",
+                  "description": "[code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 123467670,
+                    "language": "Python",
+                    "last_commit": "2018-07-19T09:37:05Z",
+                    "owner": "pratapbhanu",
+                    "repo": "CRCNN",
+                    "stars": 58
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Attention-Based Convolutional Neural Network for Semantic Relation Extraction [paper]",
+                  "description": "[code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 207518175,
+                    "language": "Python",
+                    "last_commit": "2020-09-11T08:59:26Z",
+                    "owner": "nicolay-r",
+                    "repo": "mlp-attention",
+                    "stars": 3
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "CNN-based Models"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Attention-Based Bidirectional Long Short-Term Memory Networks for Relation Classification [paper]",
+                  "description": "[code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 129038100,
+                    "language": "Python",
+                    "last_commit": "2018-11-02T07:58:01Z",
+                    "owner": "SeoSangwoo",
+                    "repo": "Attention-Based-BiLSTM-relation-extraction",
+                    "stars": 445
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Semantic Relation Classification via Bidirectional LSTM Networks with Entity-aware Attention using Latent Entity Typing [paper]",
+                  "description": "[code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 147464899,
+                    "language": "Python",
+                    "last_commit": "2019-02-21T05:18:29Z",
+                    "owner": "roomylee",
+                    "repo": "entity-aware-relation-classification",
+                    "stars": 112
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "RNN-based Models"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Classifying Relations via Long Short Term Memory Networks along Shortest Dependency Path [paper]",
+                  "description": "[code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 94929398,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2019-04-15T08:42:33Z",
+                    "owner": "Sshanu",
+                    "repo": "Relation-Classification-using-Bidirectional-LSTM-Tree",
+                    "stars": 189
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Semantic Compositionality through Recursive Matrix-Vector Spaces [paper]",
+                  "description": "[code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 16484488,
+                    "language": "Python",
+                    "last_commit": "2015-10-09T07:48:20Z",
+                    "owner": "pratapbhanu",
+                    "repo": "MVRNN",
+                    "stars": 11
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Dependency-based Models"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "RECON: Relation Extraction using Knowledge Graph Context in a Graph Neural Network [parer]",
+                  "description": "[code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 330178963,
+                    "language": "Python",
+                    "last_commit": "2022-08-03T09:56:56Z",
+                    "owner": "ansonb",
+                    "repo": "RECON",
+                    "stars": 40
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "GDPNet: Refining Latent Multi-View Graph for Relation Extraction [paper]",
+                  "description": "[code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 319311847,
+                    "language": "Python",
+                    "last_commit": "2022-12-11T22:32:52Z",
+                    "owner": "XueFuzhao",
+                    "repo": "GDPNet",
+                    "stars": 38
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "GNN-based Models"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Supervised Approaches"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Neural Relation Extraction with Selective Attention over Instances [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 83191570,
+                "language": "Python",
+                "last_commit": "2024-01-10T11:52:49Z",
+                "owner": "thunlp",
+                "repo": "OpenNRE",
+                "stars": 4470
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RESIDE: Improving Distantly-Supervised Neural Relation Extraction using Side Information [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 144647823,
+                "language": "CSS",
+                "last_commit": "2023-03-24T22:44:45Z",
+                "owner": "malllabiisc",
+                "repo": "RESIDE",
+                "stars": 249
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Distant Supervision Relation Extraction with Intra-Bag and Inter-Bag Attentions [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 172637916,
+                "language": "Python",
+                "last_commit": "2021-07-20T01:55:08Z",
+                "owner": "ZhixiuYe",
+                "repo": "Intra-Bag-and-Inter-Bag-Attentions",
+                "stars": 115
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hierarchical Relation Extraction with Coarse-to-Fine Grained Attention[paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 144868282,
+                "language": "Python",
+                "last_commit": "2020-07-30T15:23:39Z",
+                "owner": "thunlp",
+                "repo": "HNRE",
+                "stars": 93
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Learning local and global contexts using a convolutional recurrent network model for relation classification in biomedical text [paper]",
+              "description": "[code] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88143195,
+                "language": "Python",
+                "last_commit": "2017-12-01T14:53:36Z",
+                "owner": "desh2608",
+                "repo": "crnn-relation-classification",
+                "stars": 47
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Distant Supervision Approaches"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "SpanBERT: Improving pre-training by representing and predicting spans [paper]",
+                  "description": "[code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 205434302,
+                    "language": "Python",
+                    "last_commit": "2023-07-25T16:49:50Z",
+                    "owner": "facebookresearch",
+                    "repo": "SpanBERT",
+                    "stars": 907
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention [paper]",
+                  "description": "[code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 171815215,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2023-11-19T14:32:06Z",
+                    "owner": "studio-ousia",
+                    "repo": "luke",
+                    "stars": 725
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Encoder Representation from Transformer"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Language Models"
+        }
+      ],
       "title": "Papers"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Supervised Approaches"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Convolution Neural Network for Relation Extraction [paper]",
-          "description": "[code] [review]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-10-26T09:23:27Z",
-            "owner": "roomylee",
-            "repo": "cnn-relation-extraction",
-            "stars": 218
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Relation Classification via Convolutional Deep Neural Network [paper]",
-          "description": "[code] [review]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-10-26T09:23:27Z",
-            "owner": "roomylee",
-            "repo": "cnn-relation-extraction",
-            "stars": 218
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Relation Extraction: Perspective from Convolutional Neural Networks [paper]",
-          "description": "[code] [review]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-10-26T09:23:27Z",
-            "owner": "roomylee",
-            "repo": "cnn-relation-extraction",
-            "stars": 218
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Relation Classification via Multi-Level Attention CNNs [paper]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-08-23T01:41:25Z",
-            "owner": "dgai91",
-            "repo": "pytorch-acnn-model",
-            "stars": 178
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Classifying Relations by Ranking with Convolutional Neural Networks [paper]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-07-19T09:37:05Z",
-            "owner": "pratapbhanu",
-            "repo": "CRCNN",
-            "stars": 58
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Attention-Based Convolutional Neural Network for Semantic Relation Extraction [paper]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-09-11T08:59:26Z",
-            "owner": "nicolay-r",
-            "repo": "mlp-attention",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "CNN-based Models"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Attention-Based Bidirectional Long Short-Term Memory Networks for Relation Classification [paper]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-11-02T07:58:01Z",
-            "owner": "SeoSangwoo",
-            "repo": "Attention-Based-BiLSTM-relation-extraction",
-            "stars": 445
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Semantic Relation Classification via Bidirectional LSTM Networks with Entity-aware Attention using Latent Entity Typing [paper]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-02-21T05:18:29Z",
-            "owner": "roomylee",
-            "repo": "entity-aware-relation-classification",
-            "stars": 112
-          }
-        }
-      ],
-      "title": "RNN-based Models"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Classifying Relations via Long Short Term Memory Networks along Shortest Dependency Path [paper]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2019-04-15T08:42:33Z",
-            "owner": "Sshanu",
-            "repo": "Relation-Classification-using-Bidirectional-LSTM-Tree",
-            "stars": 189
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Semantic Compositionality through Recursive Matrix-Vector Spaces [paper]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2015-10-09T07:48:20Z",
-            "owner": "pratapbhanu",
-            "repo": "MVRNN",
-            "stars": 11
-          }
-        }
-      ],
-      "title": "Dependency-based Models"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "RECON: Relation Extraction using Knowledge Graph Context in a Graph Neural Network [parer]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-08-03T09:56:56Z",
-            "owner": "ansonb",
-            "repo": "RECON",
-            "stars": 40
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GDPNet: Refining Latent Multi-View Graph for Relation Extraction [paper]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-12-11T22:32:52Z",
-            "owner": "XueFuzhao",
-            "repo": "GDPNet",
-            "stars": 38
-          }
-        }
-      ],
-      "title": "GNN-based Models"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Neural Relation Extraction with Selective Attention over Instances [paper]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-01-10T11:52:49Z",
-            "owner": "thunlp",
-            "repo": "OpenNRE",
-            "stars": 4470
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RESIDE: Improving Distantly-Supervised Neural Relation Extraction using Side Information [paper]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2023-03-24T22:44:45Z",
-            "owner": "malllabiisc",
-            "repo": "RESIDE",
-            "stars": 249
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Distant Supervision Relation Extraction with Intra-Bag and Inter-Bag Attentions [paper]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-07-20T01:55:08Z",
-            "owner": "ZhixiuYe",
-            "repo": "Intra-Bag-and-Inter-Bag-Attentions",
-            "stars": 115
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hierarchical Relation Extraction with Coarse-to-Fine Grained Attention[paper]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-07-30T15:23:39Z",
-            "owner": "thunlp",
-            "repo": "HNRE",
-            "stars": 93
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Learning local and global contexts using a convolutional recurrent network model for relation classification in biomedical text [paper]",
-          "description": "[code] [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2017-12-01T14:53:36Z",
-            "owner": "desh2608",
-            "repo": "crnn-relation-classification",
-            "stars": 47
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Distant supervision for relation extraction without labeled data [paper]",
-          "description": "[review]",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Distant Supervision for Relation Extraction via Piecewise Convolutional Neural Networks [paper]",
-          "description": "[review] [code]",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Relation Extraction with Multi-instance Multi-label Convolutional Neural Networks [paper]",
-          "description": "[review] [code]",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Incorporating Relation Paths in Neural Relation Extraction [paper]",
-          "description": "[review]",
-          "children": []
-        }
-      ],
-      "title": "Distant Supervision Approaches"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Language Models"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "SpanBERT: Improving pre-training by representing and predicting spans [paper]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2023-07-25T16:49:50Z",
-            "owner": "facebookresearch",
-            "repo": "SpanBERT",
-            "stars": 907
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention [paper]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2023-11-19T14:32:06Z",
-            "owner": "studio-ousia",
-            "repo": "luke",
-            "stars": 725
-          }
-        }
-      ],
-      "title": "Encoder Representation from Transformer"
-    },
-    {
-      "description": "",
+      "description": "Back to Top",
       "items": [
         {
           "node_type": "item",
@@ -351,6 +357,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83191570,
             "language": "Python",
             "last_commit": "2024-01-10T11:52:49Z",
             "owner": "thunlp",
@@ -370,6 +377,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 225708027,
                 "language": "Python",
                 "last_commit": "2026-02-05T23:12:28Z",
                 "owner": "nicolay-r",
@@ -380,6 +388,7 @@
           ],
           "repo_info": {
             "archived": false,
+            "id": 225708027,
             "language": "Python",
             "last_commit": "2026-02-05T23:12:28Z",
             "owner": "nicolay-r",
@@ -394,6 +403,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 154327350,
             "language": "Python",
             "last_commit": "2019-01-15T12:57:40Z",
             "owner": "ims-tcl",
@@ -403,16 +413,12 @@
         }
       ],
       "title": "Frameworks"
-    },
-    {
-      "description": "To the extent possible under law, Joohong Lee has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T07:02:07.816Z",
+    "last_updated": "2026-08-19T12:49:26.195Z",
     "original_repository": "roomylee/awesome-relation-extraction",
+    "original_repository_id": 126593926,
     "original_repository_sha": "6a2212cc12f422ceb1538afc2410ec2a01cc808d",
     "enhanced_repository": "enhansome/enhansome-relation-extraction",
     "enhanced_repository_description": null,
