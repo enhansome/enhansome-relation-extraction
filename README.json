@@ -232,7 +232,7 @@
                 "last_commit": "2024-01-10T11:52:49Z",
                 "owner": "thunlp",
                 "repo": "OpenNRE",
-                "stars": 4470
+                "stars": 4469
               }
             },
             {
@@ -247,7 +247,7 @@
                 "last_commit": "2023-03-24T22:44:45Z",
                 "owner": "malllabiisc",
                 "repo": "RESIDE",
-                "stars": 249
+                "stars": 248
               }
             },
             {
@@ -362,7 +362,7 @@
             "last_commit": "2024-01-10T11:52:49Z",
             "owner": "thunlp",
             "repo": "OpenNRE",
-            "stars": 4470
+            "stars": 4469
           }
         },
         {
@@ -416,7 +416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:49:26.195Z",
+    "last_updated": "2026-08-20T07:02:57.316Z",
     "original_repository": "roomylee/awesome-relation-extraction",
     "original_repository_id": 126593926,
     "original_repository_sha": "6a2212cc12f422ceb1538afc2410ec2a01cc808d",
