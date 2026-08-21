@@ -2,9 +2,9 @@
 
 ![awesome\_re](https://user-images.githubusercontent.com/15166794/47858006-62aa7400-de2e-11e8-82d3-165f66aaaec4.png)
 
-A curated list of awesome resources dedicated to Relation Extraction, inspired by [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 18,909 | 🐛 10 | 📅 2026-08-18 and [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,183 | 🐛 47 | 📅 2023-08-15.
+A curated list of awesome resources dedicated to Relation Extraction, inspired by [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 18,918 | 🐛 10 | 📅 2026-08-18 and [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,184 | 🐛 47 | 📅 2023-08-15.
 
-**Contributing**: Please feel free to make *[pull requests](https://github.com/roomylee/awesome-relation-extraction/pulls) ⭐ 1,224 | 🐛 3 | 📅 2022-01-27*.
+**Contributing**: Please feel free to make *[pull requests](https://github.com/roomylee/awesome-relation-extraction/pulls) ⭐ 1,223 | 🐛 3 | 📅 2022-01-27*.
 
 ## Contents
 
@@ -131,7 +131,7 @@ A curated list of awesome resources dedicated to Relation Extraction, inspired b
 
 ### Distant Supervision Approaches
 
-* Neural Relation Extraction with Selective Attention over Instances [\[paper\]](http://www.aclweb.org/anthology/P16-1200) [\[code\]](https://github.com/thunlp/OpenNRE/) ⭐ 4,469 | 🐛 19 | 🌐 Python | 📅 2024-01-10
+* Neural Relation Extraction with Selective Attention over Instances [\[paper\]](http://www.aclweb.org/anthology/P16-1200) [\[code\]](https://github.com/thunlp/OpenNRE/) ⭐ 4,468 | 🐛 19 | 🌐 Python | 📅 2024-01-10
   * Yankai Lin, Shiqi Shen, Zhiyuan Liu, Huanbo Luan and Maosong Sun
   * ACL 2017
 * RESIDE: Improving Distantly-Supervised Neural Relation Extraction using Side Information [\[paper\]](http://malllabiisc.github.io/publications/papers/reside_emnlp18.pdf) [\[code\]](https://github.com/malllabiisc/RESIDE) ⭐ 248 | 🐛 5 | 🌐 CSS | 📅 2023-03-24
@@ -291,7 +291,7 @@ For state of the art results check out [nlpprogress.com on relation extraction](
 
 ## Frameworks
 
-* **OpenNRE** [\[github\]](https://github.com/thunlp/OpenNRE) ⭐ 4,469 | 🐛 19 | 🌐 Python | 📅 2024-01-10 [\[paper\]](https://aclanthology.org/D19-3029.pdf)
+* **OpenNRE** [\[github\]](https://github.com/thunlp/OpenNRE) ⭐ 4,468 | 🐛 19 | 🌐 Python | 📅 2024-01-10 [\[paper\]](https://aclanthology.org/D19-3029.pdf)
   * Is an open-source and extensible toolkit that provides a unified framework to implement neural models for relation extraction (RE) between named entities.
     It is designed for various scenarios for RE, including sentence-level RE, bag-level RE, document-level RE, and few-shot RE.
     It provides various functional RE modules based on both TensorFlow and PyTorch to maintain sufficient modularity and extensibility, making it becomes easy to incorporate new models into the framework.
@@ -325,4 +325,4 @@ To the extent possible under law, [Joohong Lee](https://roomylee.github.io/) has
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
