@@ -232,7 +232,7 @@
                 "last_commit": "2024-01-10T11:52:49Z",
                 "owner": "thunlp",
                 "repo": "OpenNRE",
-                "stars": 4468
+                "stars": 4467
               }
             },
             {
@@ -362,7 +362,7 @@
             "last_commit": "2024-01-10T11:52:49Z",
             "owner": "thunlp",
             "repo": "OpenNRE",
-            "stars": 4468
+            "stars": 4467
           }
         },
         {
@@ -416,7 +416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T06:56:49.242Z",
+    "last_updated": "2026-08-23T06:58:21.256Z",
     "original_repository": "roomylee/awesome-relation-extraction",
     "original_repository_id": 126593926,
     "original_repository_sha": "6a2212cc12f422ceb1538afc2410ec2a01cc808d",
