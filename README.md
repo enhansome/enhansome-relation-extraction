@@ -211,6 +211,9 @@ A curated list of awesome resources dedicated to Relation Extraction, inspired b
 
 ### Miscellaneous
 
+* TDEER: An Efficient Translating Decoding Schema for Joint Extraction of Entities and Relations [\[paper\]](https://aclanthology.org/2021.emnlp-main.635/) [\[code\]](https://github.com/4ai/tdeer) ⭐ 41 | 🐛 8 | 🌐 Python | 📅 2024-07-27
+  * Xianming Li, Xiaotian Luo, Chenghao Dong, Daichuan Yang, Beidi Luan and Zhen He
+  * EMNLP 2021
 * Jointly Extracting Relations with Class Ties via Effective Deep Ranking [\[paper\]](http://aclweb.org/anthology/P17-1166)
   * Hai Ye, Wenhan Chao, Zhunchen Luo and Zhoujun Li
   * ACL 2017
@@ -226,9 +229,6 @@ A curated list of awesome resources dedicated to Relation Extraction, inspired b
 * Joint Extraction of Entities and Relations Using Reinforcement Learning and Deep Learning [\[paper\]](https://www.hindawi.com/journals/cin/2017/7643065/)
   * Yuntian Feng, Hongjun Zhang, Wenning Hao, and Gang Chen
   * Journal of Computational Intelligence and Neuroscience 2017
-* TDEER: An Efficient Translating Decoding Schema for Joint Extraction of Entities and Relations [\[paper\]](https://aclanthology.org/2021.emnlp-main.635/) [\[code\]](https://github.com/4ai/tdeer) ⭐ 41 | 🐛 8 | 🌐 Python | 📅 2024-07-27
-  * Xianming Li, Xiaotian Luo, Chenghao Dong, Daichuan Yang, Beidi Luan and Zhen He
-  * EMNLP 2021
 
 [Back to Top](#contents)
 

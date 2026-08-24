@@ -338,17 +338,105 @@
               "description": null,
               "node_type": "group",
               "title": "Encoder Representation from Transformer"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Improving Relation Extraction by Pretrained Language Representations [paper]",
+                  "description": "[review] [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 180105960,
+                    "language": "Python",
+                    "last_commit": "2021-10-01T09:27:30Z",
+                    "owner": "DFKI-NLP",
+                    "repo": "TRE",
+                    "stars": 106
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Decoder Representation from Transformer"
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "Language Models"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "KGPool: Dynamic Knowledge Graph Context Selection for Relation Extraction [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 365211004,
+                "language": "Python",
+                "last_commit": "2022-05-21T09:28:54Z",
+                "owner": "nadgeri14",
+                "repo": "KGPool",
+                "stars": 44
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Knowledge Graph Based Approaches"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "FewRel: A Large-Scale Supervised Few-Shot Relation Classification Dataset with State-of-the-Art Evaluation [paper]",
+              "description": "[website] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 155248968,
+                "language": "Python",
+                "last_commit": "2019-09-13T03:05:10Z",
+                "owner": "ProKil",
+                "repo": "FewRel",
+                "stars": 81
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Few-Shot Learning Approaches"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TDEER: An Efficient Translating Decoding Schema for Joint Extraction of Entities and Relations [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 425483806,
+                "language": "Python",
+                "last_commit": "2024-07-27T10:59:45Z",
+                "owner": "4AI",
+                "repo": "TDEER",
+                "stars": 41
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Miscellaneous"
         }
       ],
       "title": "Papers"
     },
     {
-      "description": "Back to Top",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -416,7 +504,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T07:17:35.286Z",
+    "last_updated": "2026-08-24T14:12:16.594Z",
     "original_repository": "roomylee/awesome-relation-extraction",
     "original_repository_id": 126593926,
     "original_repository_sha": "6a2212cc12f422ceb1538afc2410ec2a01cc808d",
