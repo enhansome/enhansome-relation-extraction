@@ -331,7 +331,7 @@
                     "last_commit": "2023-11-19T14:32:06Z",
                     "owner": "studio-ousia",
                     "repo": "luke",
-                    "stars": 725
+                    "stars": 726
                   }
                 }
               ],
@@ -504,9 +504,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T07:05:57.386Z",
-    "original_repository": "roomylee/awesome-relation-extraction",
-    "original_repository_id": 126593926,
+    "last_updated": "2026-08-27T12:04:27.899Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 126593926,
+      "language": null,
+      "last_commit": "2022-01-27T14:46:32Z",
+      "owner": "roomylee",
+      "repo": "awesome-relation-extraction",
+      "stars": 1224
+    },
     "original_repository_sha": "6a2212cc12f422ceb1538afc2410ec2a01cc808d",
     "enhanced_repository": "enhansome/enhansome-relation-extraction",
     "enhanced_repository_description": null,

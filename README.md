@@ -2,9 +2,9 @@
 
 ![awesome\_re](https://user-images.githubusercontent.com/15166794/47858006-62aa7400-de2e-11e8-82d3-165f66aaaec4.png)
 
-A curated list of awesome resources dedicated to Relation Extraction, inspired by [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 18,933 | 🐛 14 | 📅 2026-08-18 and [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,185 | 🐛 47 | 📅 2023-08-15.
+A curated list of awesome resources dedicated to Relation Extraction, inspired by [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 18,936 | 🐛 14 | 📅 2026-08-18 and [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,186 | 🐛 47 | 📅 2023-08-15.
 
-**Contributing**: Please feel free to make *[pull requests](https://github.com/roomylee/awesome-relation-extraction/pulls) ⭐ 1,223 | 🐛 3 | 📅 2022-01-27*.
+**Contributing**: Please feel free to make *[pull requests](https://github.com/roomylee/awesome-relation-extraction/pulls) ⭐ 1,224 | 🐛 3 | 📅 2022-01-27*.
 
 ## Contents
 
@@ -176,7 +176,7 @@ A curated list of awesome resources dedicated to Relation Extraction, inspired b
   * TACL 2020 (Transactions of the Association for Computational Linguistics)
 * LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention
   [\[paper\]](https://www.aclweb.org/anthology/2020.emnlp-main.523/)
-  [\[code\]](https://github.com/studio-ousia/luke) ⭐ 725 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2023-11-19
+  [\[code\]](https://github.com/studio-ousia/luke) ⭐ 726 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2023-11-19
   * Ikuya Yamada, Akari Asai, Hiroyuki Shindo, Hideaki Takeda, Yuji Matsumoto
   * EMNLP 2020
 * Enriching Pre-trained Language Model with Entity Information for Relation Classification [\[paper\]](https://arxiv.org/abs/1905.08284.pdf)
@@ -325,4 +325,4 @@ To the extent possible under law, [Joohong Lee](https://roomylee.github.io/) has
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
