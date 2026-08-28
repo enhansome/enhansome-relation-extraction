@@ -20,7 +20,8 @@
                     "owner": "roomylee",
                     "repo": "cnn-relation-extraction",
                     "stars": 218
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:37:11.942Z"
                 },
                 {
                   "node_type": "item",
@@ -35,7 +36,8 @@
                     "owner": "roomylee",
                     "repo": "cnn-relation-extraction",
                     "stars": 218
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:37:11.942Z"
                 },
                 {
                   "node_type": "item",
@@ -50,7 +52,8 @@
                     "owner": "roomylee",
                     "repo": "cnn-relation-extraction",
                     "stars": 218
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:37:11.942Z"
                 },
                 {
                   "node_type": "item",
@@ -65,7 +68,8 @@
                     "owner": "dgai91",
                     "repo": "pytorch-acnn-model",
                     "stars": 178
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:37:11.942Z"
                 },
                 {
                   "node_type": "item",
@@ -80,7 +84,8 @@
                     "owner": "pratapbhanu",
                     "repo": "CRCNN",
                     "stars": 58
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:37:11.942Z"
                 },
                 {
                   "node_type": "item",
@@ -95,7 +100,8 @@
                     "owner": "nicolay-r",
                     "repo": "mlp-attention",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:37:11.942Z"
                 }
               ],
               "description": null,
@@ -117,7 +123,8 @@
                     "owner": "SeoSangwoo",
                     "repo": "Attention-Based-BiLSTM-relation-extraction",
                     "stars": 445
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:37:11.942Z"
                 },
                 {
                   "node_type": "item",
@@ -132,7 +139,8 @@
                     "owner": "roomylee",
                     "repo": "entity-aware-relation-classification",
                     "stars": 112
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:37:11.942Z"
                 }
               ],
               "description": null,
@@ -154,7 +162,8 @@
                     "owner": "Sshanu",
                     "repo": "Relation-Classification-using-Bidirectional-LSTM-Tree",
                     "stars": 189
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:37:11.942Z"
                 },
                 {
                   "node_type": "item",
@@ -169,7 +178,8 @@
                     "owner": "pratapbhanu",
                     "repo": "MVRNN",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:37:11.942Z"
                 }
               ],
               "description": null,
@@ -191,7 +201,8 @@
                     "owner": "ansonb",
                     "repo": "RECON",
                     "stars": 40
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:37:11.942Z"
                 },
                 {
                   "node_type": "item",
@@ -206,7 +217,8 @@
                     "owner": "XueFuzhao",
                     "repo": "GDPNet",
                     "stars": 38
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:37:11.942Z"
                 }
               ],
               "description": null,
@@ -233,7 +245,8 @@
                 "owner": "thunlp",
                 "repo": "OpenNRE",
                 "stars": 4467
-              }
+              },
+              "first_seen": "2026-08-28T18:37:11.942Z"
             },
             {
               "node_type": "item",
@@ -248,7 +261,8 @@
                 "owner": "malllabiisc",
                 "repo": "RESIDE",
                 "stars": 248
-              }
+              },
+              "first_seen": "2026-08-28T18:37:11.942Z"
             },
             {
               "node_type": "item",
@@ -263,7 +277,8 @@
                 "owner": "ZhixiuYe",
                 "repo": "Intra-Bag-and-Inter-Bag-Attentions",
                 "stars": 115
-              }
+              },
+              "first_seen": "2026-08-28T18:37:11.942Z"
             },
             {
               "node_type": "item",
@@ -278,7 +293,8 @@
                 "owner": "thunlp",
                 "repo": "HNRE",
                 "stars": 93
-              }
+              },
+              "first_seen": "2026-08-28T18:37:11.942Z"
             },
             {
               "node_type": "item",
@@ -293,7 +309,8 @@
                 "owner": "desh2608",
                 "repo": "crnn-relation-classification",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T18:37:11.942Z"
             }
           ],
           "description": null,
@@ -317,7 +334,8 @@
                     "owner": "facebookresearch",
                     "repo": "SpanBERT",
                     "stars": 907
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:37:11.942Z"
                 },
                 {
                   "node_type": "item",
@@ -332,7 +350,8 @@
                     "owner": "studio-ousia",
                     "repo": "luke",
                     "stars": 726
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:37:11.942Z"
                 }
               ],
               "description": null,
@@ -354,7 +373,8 @@
                     "owner": "DFKI-NLP",
                     "repo": "TRE",
                     "stars": 106
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:37:11.942Z"
                 }
               ],
               "description": null,
@@ -381,7 +401,8 @@
                 "owner": "nadgeri14",
                 "repo": "KGPool",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T18:37:11.942Z"
             }
           ],
           "description": null,
@@ -403,7 +424,8 @@
                 "owner": "ProKil",
                 "repo": "FewRel",
                 "stars": 81
-              }
+              },
+              "first_seen": "2026-08-28T18:37:11.942Z"
             }
           ],
           "description": null,
@@ -425,7 +447,8 @@
                 "owner": "4AI",
                 "repo": "TDEER",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T18:37:11.942Z"
             }
           ],
           "description": null,
@@ -451,7 +474,8 @@
             "owner": "thunlp",
             "repo": "OpenNRE",
             "stars": 4467
-          }
+          },
+          "first_seen": "2026-08-28T18:37:11.942Z"
         },
         {
           "node_type": "item",
@@ -471,7 +495,8 @@
                 "owner": "nicolay-r",
                 "repo": "AREkit",
                 "stars": 66
-              }
+              },
+              "first_seen": "2026-08-28T18:37:11.942Z"
             }
           ],
           "repo_info": {
@@ -482,7 +507,8 @@
             "owner": "nicolay-r",
             "repo": "AREkit",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T18:37:11.942Z"
         },
         {
           "node_type": "item",
@@ -497,14 +523,15 @@
             "owner": "ims-tcl",
             "repo": "DeRE",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T18:37:11.942Z"
         }
       ],
       "title": "Frameworks"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T17:35:54.809Z",
+    "last_updated": "2026-08-28T18:37:11.942Z",
     "original_repository_info": {
       "archived": false,
       "id": 126593926,

@@ -2,7 +2,7 @@
 
 ![awesome\_re](https://user-images.githubusercontent.com/15166794/47858006-62aa7400-de2e-11e8-82d3-165f66aaaec4.png)
 
-A curated list of awesome resources dedicated to Relation Extraction, inspired by [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 18,937 | 🐛 14 | 📅 2026-08-18 and [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,186 | 🐛 47 | 📅 2023-08-15.
+A curated list of awesome resources dedicated to Relation Extraction, inspired by [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 18,938 | 🐛 15 | 📅 2026-08-18 and [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,186 | 🐛 47 | 📅 2023-08-15.
 
 **Contributing**: Please feel free to make *[pull requests](https://github.com/roomylee/awesome-relation-extraction/pulls) ⭐ 1,224 | 🐛 3 | 📅 2022-01-27*.
 
@@ -325,4 +325,4 @@ To the extent possible under law, [Joohong Lee](https://roomylee.github.io/) has
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
