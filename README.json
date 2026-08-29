@@ -14,12 +14,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tensorflow Implementation of Convolutional Neural Network for Relation Extraction (COLING 2014, NAACL 2015)",
+                    "homepage": "http://www.aclweb.org/anthology/W15-1506",
                     "id": 110631554,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2018-10-26T09:23:27Z",
+                    "open_issues": 3,
                     "owner": "roomylee",
                     "repo": "cnn-relation-extraction",
-                    "stars": 218
+                    "stars": 218,
+                    "topics": [
+                      "cnn-text-classification",
+                      "convolutional-neural-networks",
+                      "relation-extraction",
+                      "semeval-2010",
+                      "tensorflow"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:37:11.942Z"
                 },
@@ -30,12 +41,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tensorflow Implementation of Convolutional Neural Network for Relation Extraction (COLING 2014, NAACL 2015)",
+                    "homepage": "http://www.aclweb.org/anthology/W15-1506",
                     "id": 110631554,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2018-10-26T09:23:27Z",
+                    "open_issues": 3,
                     "owner": "roomylee",
                     "repo": "cnn-relation-extraction",
-                    "stars": 218
+                    "stars": 218,
+                    "topics": [
+                      "cnn-text-classification",
+                      "convolutional-neural-networks",
+                      "relation-extraction",
+                      "semeval-2010",
+                      "tensorflow"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:37:11.942Z"
                 },
@@ -46,12 +68,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tensorflow Implementation of Convolutional Neural Network for Relation Extraction (COLING 2014, NAACL 2015)",
+                    "homepage": "http://www.aclweb.org/anthology/W15-1506",
                     "id": 110631554,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2018-10-26T09:23:27Z",
+                    "open_issues": 3,
                     "owner": "roomylee",
                     "repo": "cnn-relation-extraction",
-                    "stars": 218
+                    "stars": 218,
+                    "topics": [
+                      "cnn-text-classification",
+                      "convolutional-neural-networks",
+                      "relation-extraction",
+                      "semeval-2010",
+                      "tensorflow"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:37:11.942Z"
                 },
@@ -62,12 +95,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "code of Relation Classification via Multi-Level Attention CNNs",
+                    "homepage": null,
                     "id": 103348658,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-08-23T01:41:25Z",
+                    "open_issues": 5,
                     "owner": "dgai91",
                     "repo": "pytorch-acnn-model",
-                    "stars": 178
+                    "stars": 178,
+                    "topics": [
+                      "acnn",
+                      "attention-model",
+                      "nlp",
+                      "pytorch",
+                      "relation-classification",
+                      "relation-extraction"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:37:11.942Z"
                 },
@@ -78,12 +123,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Classifying Relations by Ranking with Convolutional Neural Networks",
+                    "homepage": null,
                     "id": 123467670,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2018-07-19T09:37:05Z",
+                    "open_issues": 0,
                     "owner": "pratapbhanu",
                     "repo": "CRCNN",
-                    "stars": 58
+                    "stars": 58,
+                    "topics": [
+                      "cnn",
+                      "nlp",
+                      "tensorflow"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:37:11.942Z"
                 },
@@ -94,12 +148,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Multilayer Perceptron Attention Layer implementation for Relation Extraction",
+                    "homepage": null,
                     "id": 207518175,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2020-09-11T08:59:26Z",
+                    "open_issues": 0,
                     "owner": "nicolay-r",
                     "repo": "mlp-attention",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": [
+                      "attention-model",
+                      "relation-extraction"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:37:11.942Z"
                 }
@@ -117,12 +179,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tensorflow Implementation of \"Attention-Based Bidirectional Long Short-Term Memory Networks for Relation Classification\" (ACL 2016)",
+                    "homepage": "http://www.aclweb.org/anthology/P16-2034",
                     "id": 129038100,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2018-11-02T07:58:01Z",
+                    "open_issues": 15,
                     "owner": "SeoSangwoo",
                     "repo": "Attention-Based-BiLSTM-relation-extraction",
-                    "stars": 445
+                    "stars": 445,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:37:11.942Z"
                 },
@@ -133,12 +200,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tensorflow Implementation of \"Semantic Relation Classification via Bidirectional LSTM Networks with Entity-aware Attention using Latent Entity Typing\" (arXiv 2019)",
+                    "homepage": "https://arxiv.org/abs/1901.08163",
                     "id": 147464899,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2019-02-21T05:18:29Z",
+                    "open_issues": 4,
                     "owner": "roomylee",
                     "repo": "entity-aware-relation-classification",
-                    "stars": 112
+                    "stars": 112,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:37:11.942Z"
                 }
@@ -156,12 +228,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TensorFlow Implementation of the paper \"End-to-End Relation Extraction using LSTMs on Sequences and Tree Structures\" and \"Classifying Relations via Long Short Term Memory Networks along Shortest Dependency Paths\" for classifying relations",
+                    "homepage": null,
                     "id": 94929398,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2019-04-15T08:42:33Z",
+                    "open_issues": 7,
                     "owner": "Sshanu",
                     "repo": "Relation-Classification-using-Bidirectional-LSTM-Tree",
-                    "stars": 189
+                    "stars": 189,
+                    "topics": [
+                      "bidirectional-lstm",
+                      "deep-learning",
+                      "dependency-tree",
+                      "entities",
+                      "lca",
+                      "lstm",
+                      "lstm-networks",
+                      "lstm-tree",
+                      "neural-network",
+                      "relation-classification",
+                      "relation-extraction",
+                      "semeval",
+                      "tensorflow",
+                      "tree",
+                      "tree-structure",
+                      "word-embedding"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:37:11.942Z"
                 },
@@ -172,12 +266,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Matrix-Vector Recursive Neural Networks",
+                    "homepage": null,
                     "id": 16484488,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2015-10-09T07:48:20Z",
+                    "open_issues": 2,
                     "owner": "pratapbhanu",
                     "repo": "MVRNN",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:37:11.942Z"
                 }
@@ -195,12 +294,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This is the code for the paper 'RECON: Relation Extraction using Knowledge Graph Context in a Graph Neural Network'.",
+                    "homepage": null,
                     "id": 330178963,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-08-03T09:56:56Z",
+                    "open_issues": 0,
                     "owner": "ansonb",
                     "repo": "RECON",
-                    "stars": 40
+                    "stars": 40,
+                    "topics": [
+                      "context-graph",
+                      "graph-neural-networks",
+                      "relation-extraction"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:37:11.942Z"
                 },
@@ -211,12 +319,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 319311847,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-12-11T22:32:52Z",
+                    "open_issues": 3,
                     "owner": "XueFuzhao",
                     "repo": "GDPNet",
-                    "stars": 38
+                    "stars": 38,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:37:11.942Z"
                 }
@@ -239,12 +352,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " An Open-Source Package for Neural Relation Extraction (NRE)",
+                "homepage": null,
                 "id": 83191570,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-01-10T11:52:49Z",
+                "open_issues": 19,
                 "owner": "thunlp",
                 "repo": "OpenNRE",
-                "stars": 4467
+                "stars": 4467,
+                "topics": [
+                  "relation-extraction"
+                ]
               },
               "first_seen": "2026-08-28T18:37:11.942Z"
             },
@@ -255,12 +375,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EMNLP 2018: RESIDE: Improving Distantly-Supervised Neural Relation Extraction using Side Information",
+                "homepage": null,
                 "id": 144647823,
                 "language": "CSS",
+                "license": "Apache-2.0",
                 "last_commit": "2023-03-24T22:44:45Z",
+                "open_issues": 5,
                 "owner": "malllabiisc",
                 "repo": "RESIDE",
-                "stars": 248
+                "stars": 248,
+                "topics": [
+                  "deep-learning",
+                  "distant-supervision",
+                  "graph-convolutional-networks",
+                  "natural-language-processing",
+                  "neural-relation-extraction",
+                  "relation-extraction"
+                ]
               },
               "first_seen": "2026-08-28T18:37:11.942Z"
             },
@@ -271,12 +403,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for NAACL 2019 paper: Distant Supervision Relation Extraction with Intra-Bag and Inter-Bag Attentions",
+                "homepage": null,
                 "id": 172637916,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-07-20T01:55:08Z",
+                "open_issues": 11,
                 "owner": "ZhixiuYe",
                 "repo": "Intra-Bag-and-Inter-Bag-Attentions",
-                "stars": 115
+                "stars": 115,
+                "topics": [
+                  "deeplearning",
+                  "distant-supervision",
+                  "nlp",
+                  "pytorch",
+                  "relation-extraction"
+                ]
               },
               "first_seen": "2026-08-28T18:37:11.942Z"
             },
@@ -287,12 +430,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hierarchical Neural Relation Extraction ",
+                "homepage": null,
                 "id": 144868282,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-07-30T15:23:39Z",
+                "open_issues": 2,
                 "owner": "thunlp",
                 "repo": "HNRE",
-                "stars": 93
+                "stars": 93,
+                "topics": [
+                  "relation-extraction"
+                ]
               },
               "first_seen": "2026-08-28T18:37:11.942Z"
             },
@@ -303,12 +453,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tensorflow implementation of the Convolutional Recurrent Neural Network model with max pooling and attentive pooling, for relation classification on biomedical text.",
+                "homepage": null,
                 "id": 88143195,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-12-01T14:53:36Z",
+                "open_issues": 2,
                 "owner": "desh2608",
                 "repo": "crnn-relation-classification",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:37:11.942Z"
             }
@@ -328,12 +483,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Code for using and evaluating SpanBERT.",
+                    "homepage": null,
                     "id": 205434302,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-07-25T16:49:50Z",
+                    "open_issues": 38,
                     "owner": "facebookresearch",
                     "repo": "SpanBERT",
-                    "stars": 907
+                    "stars": 907,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:37:11.942Z"
                 },
@@ -344,12 +504,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "LUKE -- Language Understanding with Knowledge-based Embeddings",
+                    "homepage": null,
                     "id": 171815215,
                     "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-11-19T14:32:06Z",
+                    "open_issues": 14,
                     "owner": "studio-ousia",
                     "repo": "luke",
-                    "stars": 726
+                    "stars": 726,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:37:11.942Z"
                 }
@@ -367,12 +532,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[AKBC 19] Improving Relation Extraction by Pre-trained Language Representations",
+                    "homepage": "https://arxiv.org/abs/1906.03088",
                     "id": 180105960,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-10-01T09:27:30Z",
+                    "open_issues": 3,
                     "owner": "DFKI-NLP",
                     "repo": "TRE",
-                    "stars": 106
+                    "stars": 106,
+                    "topics": [
+                      "information-extraction",
+                      "machine-learning",
+                      "multi-task-learning",
+                      "nlp",
+                      "relation-extraction",
+                      "transformer"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:37:11.942Z"
                 }
@@ -395,12 +572,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ACL 2021] KGPool: Dynamic Knowledge Graph Context Selection for Relation Extraction",
+                "homepage": null,
                 "id": 365211004,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-05-21T09:28:54Z",
+                "open_issues": 4,
                 "owner": "nadgeri14",
                 "repo": "KGPool",
-                "stars": 44
+                "stars": 44,
+                "topics": [
+                  "graph-neural-networks",
+                  "knowledge-graph",
+                  "relation-extraction"
+                ]
               },
               "first_seen": "2026-08-28T18:37:11.942Z"
             }
@@ -418,12 +604,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Large-Scale Few-Shot Relation Extraction Dataset",
+                "homepage": "http://zhuhao.me/fewrel",
                 "id": 155248968,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-09-13T03:05:10Z",
+                "open_issues": 0,
                 "owner": "ProKil",
                 "repo": "FewRel",
-                "stars": 81
+                "stars": 81,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:37:11.942Z"
             }
@@ -441,12 +632,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Code For TDEER: An Efficient Translating Decoding Schema for Joint Extraction of Entities and Relations (EMNLP 2021)",
+                "homepage": null,
                 "id": 425483806,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-27T10:59:45Z",
+                "open_issues": 8,
                 "owner": "4AI",
                 "repo": "TDEER",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "emnlp",
+                  "emnlp21",
+                  "information-extraction",
+                  "nlp",
+                  "nyt",
+                  "relation-extraction",
+                  "triple-extraction",
+                  "webnlg"
+                ]
               },
               "first_seen": "2026-08-28T18:37:11.942Z"
             }
@@ -468,12 +673,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " An Open-Source Package for Neural Relation Extraction (NRE)",
+            "homepage": null,
             "id": 83191570,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-01-10T11:52:49Z",
+            "open_issues": 19,
             "owner": "thunlp",
             "repo": "OpenNRE",
-            "stars": 4467
+            "stars": 4467,
+            "topics": [
+              "relation-extraction"
+            ]
           },
           "first_seen": "2026-08-28T18:37:11.942Z"
         },
@@ -489,24 +701,56 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Document level Attitude and Relation Extraction toolkit (AREkit) for sampling and processing large  text collections with ML and for ML",
+                "homepage": "https://nicolay-r.github.io/arekit-page/",
                 "id": 225708027,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-02-05T23:12:28Z",
+                "open_issues": 6,
                 "owner": "nicolay-r",
                 "repo": "AREkit",
-                "stars": 66
+                "stars": 66,
+                "topics": [
+                  "batching",
+                  "bulk-operation",
+                  "frames",
+                  "language-model",
+                  "nlp",
+                  "pipelines",
+                  "pipelines-library",
+                  "relation-extraction",
+                  "relationship-extraction",
+                  "sentiment-analysis"
+                ]
               },
               "first_seen": "2026-08-28T18:37:11.942Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "Document level Attitude and Relation Extraction toolkit (AREkit) for sampling and processing large  text collections with ML and for ML",
+            "homepage": "https://nicolay-r.github.io/arekit-page/",
             "id": 225708027,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-05T23:12:28Z",
+            "open_issues": 6,
             "owner": "nicolay-r",
             "repo": "AREkit",
-            "stars": 66
+            "stars": 66,
+            "topics": [
+              "batching",
+              "bulk-operation",
+              "frames",
+              "language-model",
+              "nlp",
+              "pipelines",
+              "pipelines-library",
+              "relation-extraction",
+              "relationship-extraction",
+              "sentiment-analysis"
+            ]
           },
           "first_seen": "2026-08-28T18:37:11.942Z"
         },
@@ -517,12 +761,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Task and Domain-Independent Slot Filling Framework for Declarative Relation Extraction",
+            "homepage": null,
             "id": 154327350,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-01-15T12:57:40Z",
+            "open_issues": 0,
             "owner": "ims-tcl",
             "repo": "DeRE",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:37:11.942Z"
         }
@@ -531,15 +780,39 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T18:37:11.942Z",
+    "last_updated": "2026-08-29T04:33:48.391Z",
     "original_repository_info": {
       "archived": false,
+      "description": "📖 A curated list of awesome resources dedicated to Relation Extraction, one of the most important tasks in Natural Language Processing (NLP).",
+      "homepage": null,
       "id": 126593926,
       "language": null,
+      "license": null,
       "last_commit": "2022-01-27T14:46:32Z",
+      "open_issues": 3,
       "owner": "roomylee",
       "repo": "awesome-relation-extraction",
-      "stars": 1224
+      "stars": 1224,
+      "topics": [
+        "aaai",
+        "acl",
+        "awesome",
+        "deep-learning",
+        "distant-supervision",
+        "emnlp",
+        "machine-learning",
+        "naacl",
+        "natural-language-processing",
+        "new-york-times",
+        "nips",
+        "nlp",
+        "paper",
+        "relation-classification",
+        "relation-extraction",
+        "semeval-2010",
+        "state-of-the-art",
+        "trends"
+      ]
     },
     "original_repository_sha": "6a2212cc12f422ceb1538afc2410ec2a01cc808d",
     "enhanced_repository": "enhansome/enhansome-relation-extraction",
