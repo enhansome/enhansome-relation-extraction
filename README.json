@@ -510,7 +510,7 @@
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
                     "last_commit": "2023-11-19T14:32:06Z",
-                    "open_issues": 14,
+                    "open_issues": 15,
                     "owner": "studio-ousia",
                     "repo": "luke",
                     "stars": 726,
@@ -780,7 +780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T12:38:13.023Z",
+    "last_updated": "2026-09-15T11:38:48.705Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A curated list of awesome resources dedicated to Relation Extraction, one of the most important tasks in Natural Language Processing (NLP).",
