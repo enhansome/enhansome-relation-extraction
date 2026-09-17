@@ -780,7 +780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T11:25:59.996Z",
+    "last_updated": "2026-09-17T11:35:17.335Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A curated list of awesome resources dedicated to Relation Extraction, one of the most important tasks in Natural Language Processing (NLP).",
@@ -792,7 +792,7 @@
       "open_issues": 3,
       "owner": "roomylee",
       "repo": "awesome-relation-extraction",
-      "stars": 1224,
+      "stars": 1223,
       "topics": [
         "aaai",
         "acl",
