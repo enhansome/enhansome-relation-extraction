@@ -513,7 +513,7 @@
                     "open_issues": 15,
                     "owner": "studio-ousia",
                     "repo": "luke",
-                    "stars": 726,
+                    "stars": 727,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:37:11.942Z"
@@ -780,7 +780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T11:28:45.805Z",
+    "last_updated": "2026-09-24T11:39:18.968Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A curated list of awesome resources dedicated to Relation Extraction, one of the most important tasks in Natural Language Processing (NLP).",
