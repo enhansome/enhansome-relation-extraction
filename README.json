@@ -91,7 +91,7 @@
                 {
                   "node_type": "item",
                   "title": "Relation Classification via Multi-Level Attention CNNs [paper]",
-                  "description": "[code]",
+                  "description": "dgai91/pytorch-acnn-model",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -119,7 +119,7 @@
                 {
                   "node_type": "item",
                   "title": "Classifying Relations by Ranking with Convolutional Neural Networks [paper]",
-                  "description": "[code]",
+                  "description": "pratapbhanu/CRCNN",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -144,7 +144,7 @@
                 {
                   "node_type": "item",
                   "title": "Attention-Based Convolutional Neural Network for Semantic Relation Extraction [paper]",
-                  "description": "[code]",
+                  "description": "nicolay-r/mlp-attention",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -175,7 +175,7 @@
                 {
                   "node_type": "item",
                   "title": "Attention-Based Bidirectional Long Short-Term Memory Networks for Relation Classification [paper]",
-                  "description": "[code]",
+                  "description": "SeoSangwoo/Attention-Based-BiLSTM-relation-extraction",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -196,7 +196,7 @@
                 {
                   "node_type": "item",
                   "title": "Semantic Relation Classification via Bidirectional LSTM Networks with Entity-aware Attention using Latent Entity Typing [paper]",
-                  "description": "[code]",
+                  "description": "roomylee/entity-aware-relation-classification",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -224,7 +224,7 @@
                 {
                   "node_type": "item",
                   "title": "Classifying Relations via Long Short Term Memory Networks along Shortest Dependency Path [paper]",
-                  "description": "[code]",
+                  "description": "Sshanu/Relation-Classification-using-Bidirectional-LSTM-Tree",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -262,7 +262,7 @@
                 {
                   "node_type": "item",
                   "title": "Semantic Compositionality through Recursive Matrix-Vector Spaces [paper]",
-                  "description": "[code]",
+                  "description": "pratapbhanu/MVRNN",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -290,7 +290,7 @@
                 {
                   "node_type": "item",
                   "title": "RECON: Relation Extraction using Knowledge Graph Context in a Graph Neural Network [parer]",
-                  "description": "[code]",
+                  "description": "ansonb/RECON",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -315,7 +315,7 @@
                 {
                   "node_type": "item",
                   "title": "GDPNet: Refining Latent Multi-View Graph for Relation Extraction [paper]",
-                  "description": "[code]",
+                  "description": "XueFuzhao/GDPNet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -348,7 +348,7 @@
             {
               "node_type": "item",
               "title": "Neural Relation Extraction with Selective Attention over Instances [paper]",
-              "description": "[code]",
+              "description": "thunlp/OpenNRE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -371,7 +371,7 @@
             {
               "node_type": "item",
               "title": "RESIDE: Improving Distantly-Supervised Neural Relation Extraction using Side Information [paper]",
-              "description": "[code]",
+              "description": "malllabiisc/RESIDE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -399,7 +399,7 @@
             {
               "node_type": "item",
               "title": "Distant Supervision Relation Extraction with Intra-Bag and Inter-Bag Attentions [paper]",
-              "description": "[code]",
+              "description": "ZhixiuYe/Intra-Bag-and-Inter-Bag-Attentions",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -426,7 +426,7 @@
             {
               "node_type": "item",
               "title": "Hierarchical Relation Extraction with Coarse-to-Fine Grained Attention[paper]",
-              "description": "[code]",
+              "description": "thunlp/HNRE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -479,7 +479,7 @@
                 {
                   "node_type": "item",
                   "title": "SpanBERT: Improving pre-training by representing and predicting spans [paper]",
-                  "description": "[code]",
+                  "description": "facebookresearch/SpanBERT",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -500,7 +500,7 @@
                 {
                   "node_type": "item",
                   "title": "LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention [paper]",
-                  "description": "[code]",
+                  "description": "studio-ousia/luke",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -568,7 +568,7 @@
             {
               "node_type": "item",
               "title": "KGPool: Dynamic Knowledge Graph Context Selection for Relation Extraction [paper]",
-              "description": "[code]",
+              "description": "nadgeri14/KGPool",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -628,7 +628,7 @@
             {
               "node_type": "item",
               "title": "TDEER: An Efficient Translating Decoding Schema for Joint Extraction of Entities and Relations [paper]",
-              "description": "[code]",
+              "description": "4AI/TDEER",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -669,7 +669,7 @@
         {
           "node_type": "item",
           "title": "OpenNRE [github]",
-          "description": "[paper]",
+          "description": "thunlp/OpenNRE",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -757,7 +757,7 @@
         {
           "node_type": "item",
           "title": "DeRE [github]",
-          "description": "[paper]",
+          "description": "ims-tcl/DeRE",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -780,7 +780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T12:26:23.067Z",
+    "last_updated": "2026-10-03T05:04:49.675Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A curated list of awesome resources dedicated to Relation Extraction, one of the most important tasks in Natural Language Processing (NLP).",
