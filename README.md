@@ -2,7 +2,7 @@
 
 ![awesome\_re](https://user-images.githubusercontent.com/15166794/47858006-62aa7400-de2e-11e8-82d3-165f66aaaec4.png)
 
-A curated list of awesome resources dedicated to Relation Extraction, inspired by [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 19,054 | 🐛 27 | 📅 2026-09-07 and [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,186 | 🐛 49 | 📅 2023-08-15.
+A curated list of awesome resources dedicated to Relation Extraction, inspired by [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 19,056 | 🐛 28 | 📅 2026-09-07 and [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,185 | 🐛 48 | 📅 2023-08-15.
 
 **Contributing**: Please feel free to make *[pull requests](https://github.com/roomylee/awesome-relation-extraction/pulls)*.
 
@@ -112,16 +112,16 @@ A curated list of awesome resources dedicated to Relation Extraction, inspired b
 
 #### GNN-based Models
 
-* RECON: Relation Extraction using Knowledge Graph Context in a Graph Neural Network
-  [\[parer\]](https://arxiv.org/abs/2009.08694.pdf)
-  [\[code\]](https://github.com/ansonb/RECON) ⭐ 40 | 🐛 0 | 🌐 Python | 📅 2022-08-03
-  * Anson Bastos, Abhishek Nadgeri, Kuldeep Singh, Isaiah Onando Mulang', Saeedeh Shekarpour, Johannes Hoffart, Manohar Kaul
-  * WWW'21
 * GDPNet: Refining Latent Multi-View Graph for Relation Extraction
   [\[paper\]](https://arxiv.org/abs/2012.06780.pdf)
   [\[code\]](https://github.com/XueFuzhao/GDPNet) ⭐ 38 | 🐛 3 | 🌐 Python | 📅 2022-12-11
   * Fuzhao Xue, Aixin Sun, Hao Zhang, Eng Siong Chng
   * AAAI 21
+* RECON: Relation Extraction using Knowledge Graph Context in a Graph Neural Network
+  [\[parer\]](https://arxiv.org/abs/2009.08694.pdf)
+  [\[code\]](https://github.com/ansonb/RECON) ⭐ 38 | 🐛 0 | 🌐 Python | 📅 2022-08-03
+  * Anson Bastos, Abhishek Nadgeri, Kuldeep Singh, Isaiah Onando Mulang', Saeedeh Shekarpour, Johannes Hoffart, Manohar Kaul
+  * WWW'21
 * Matching the Blanks: Distributional Similarity for Relation Learning [\[paper\]](https://arxiv.org/abs/1906.03158)
   * Livio Baldini Soares, Nicholas FitzGerald, Jeffrey Ling, Tom Kwiatkowski
   * ACL 2019
@@ -131,7 +131,7 @@ A curated list of awesome resources dedicated to Relation Extraction, inspired b
 
 ### Distant Supervision Approaches
 
-* Neural Relation Extraction with Selective Attention over Instances [\[paper\]](http://www.aclweb.org/anthology/P16-1200) [\[code\]](https://github.com/thunlp/OpenNRE/) ⭐ 4,467 | 🐛 19 | 🌐 Python | 📅 2024-01-10
+* Neural Relation Extraction with Selective Attention over Instances [\[paper\]](http://www.aclweb.org/anthology/P16-1200) [\[code\]](https://github.com/thunlp/OpenNRE/) ⭐ 4,466 | 🐛 19 | 🌐 Python | 📅 2024-01-10
   * Yankai Lin, Shiqi Shen, Zhiyuan Liu, Huanbo Luan and Maosong Sun
   * ACL 2017
 * RESIDE: Improving Distantly-Supervised Neural Relation Extraction using Side Information [\[paper\]](http://malllabiisc.github.io/publications/papers/reside_emnlp18.pdf) [\[code\]](https://github.com/malllabiisc/RESIDE) ⭐ 248 | 🐛 5 | 🌐 CSS | 📅 2023-03-24
@@ -291,7 +291,7 @@ For state of the art results check out [nlpprogress.com on relation extraction](
 
 ## Frameworks
 
-* **OpenNRE** [\[github\]](https://github.com/thunlp/OpenNRE) ⭐ 4,467 | 🐛 19 | 🌐 Python | 📅 2024-01-10 [\[paper\]](https://aclanthology.org/D19-3029.pdf)
+* **OpenNRE** [\[github\]](https://github.com/thunlp/OpenNRE) ⭐ 4,466 | 🐛 19 | 🌐 Python | 📅 2024-01-10 [\[paper\]](https://aclanthology.org/D19-3029.pdf)
   * Is an open-source and extensible toolkit that provides a unified framework to implement neural models for relation extraction (RE) between named entities.
     It is designed for various scenarios for RE, including sentence-level RE, bag-level RE, document-level RE, and few-shot RE.
     It provides various functional RE modules based on both TensorFlow and PyTorch to maintain sufficient modularity and extensibility, making it becomes easy to incorporate new models into the framework.
@@ -325,4 +325,4 @@ To the extent possible under law, [Joohong Lee](https://roomylee.github.io/) has
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._

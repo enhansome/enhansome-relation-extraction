@@ -289,31 +289,6 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "RECON: Relation Extraction using Knowledge Graph Context in a Graph Neural Network [parer]",
-                  "description": "ansonb/RECON",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "This is the code for the paper 'RECON: Relation Extraction using Knowledge Graph Context in a Graph Neural Network'.",
-                    "homepage": null,
-                    "id": 330178963,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2022-08-03T09:56:56Z",
-                    "open_issues": 0,
-                    "owner": "ansonb",
-                    "repo": "RECON",
-                    "stars": 40,
-                    "topics": [
-                      "context-graph",
-                      "graph-neural-networks",
-                      "relation-extraction"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T18:37:11.942Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "GDPNet: Refining Latent Multi-View Graph for Relation Extraction [paper]",
                   "description": "XueFuzhao/GDPNet",
                   "children": [],
@@ -330,6 +305,31 @@
                     "repo": "GDPNet",
                     "stars": 38,
                     "topics": []
+                  },
+                  "first_seen": "2026-08-28T18:37:11.942Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "RECON: Relation Extraction using Knowledge Graph Context in a Graph Neural Network [parer]",
+                  "description": "ansonb/RECON",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "This is the code for the paper 'RECON: Relation Extraction using Knowledge Graph Context in a Graph Neural Network'.",
+                    "homepage": null,
+                    "id": 330178963,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2022-08-03T09:56:56Z",
+                    "open_issues": 0,
+                    "owner": "ansonb",
+                    "repo": "RECON",
+                    "stars": 38,
+                    "topics": [
+                      "context-graph",
+                      "graph-neural-networks",
+                      "relation-extraction"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:37:11.942Z"
                 }
@@ -361,7 +361,7 @@
                 "open_issues": 19,
                 "owner": "thunlp",
                 "repo": "OpenNRE",
-                "stars": 4467,
+                "stars": 4466,
                 "topics": [
                   "relation-extraction"
                 ]
@@ -682,7 +682,7 @@
             "open_issues": 19,
             "owner": "thunlp",
             "repo": "OpenNRE",
-            "stars": 4467,
+            "stars": 4466,
             "topics": [
               "relation-extraction"
             ]
@@ -780,7 +780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T12:15:59.869Z",
+    "last_updated": "2026-10-05T14:28:19.734Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A curated list of awesome resources dedicated to Relation Extraction, one of the most important tasks in Natural Language Processing (NLP).",
