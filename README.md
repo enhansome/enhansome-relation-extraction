@@ -2,7 +2,7 @@
 
 ![awesome\_re](https://user-images.githubusercontent.com/15166794/47858006-62aa7400-de2e-11e8-82d3-165f66aaaec4.png)
 
-A curated list of awesome resources dedicated to Relation Extraction, inspired by [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 19,073 | 🐛 30 | 📅 2026-09-07 and [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,188 | 🐛 48 | 📅 2023-08-15.
+A curated list of awesome resources dedicated to Relation Extraction, inspired by [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 19,072 | 🐛 1 | 📅 2026-10-12 and [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,190 | 🐛 48 | 📅 2023-08-15.
 
 **Contributing**: Please feel free to make *[pull requests](https://github.com/roomylee/awesome-relation-extraction/pulls)*.
 
@@ -49,7 +49,7 @@ A curated list of awesome resources dedicated to Relation Extraction, inspired b
 * Relation Extraction: Perspective from Convolutional Neural Networks [\[paper\]](http://www.cs.nyu.edu/~thien/pubs/vector15.pdf) [\[code\]](https://github.com/roomylee/cnn-relation-extraction) ⭐ 218 | 🐛 3 | 🌐 Python | 📅 2018-10-26 [\[review\]](https://github.com/roomylee/paper-review/blob/master/relation_extraction/Relation_Extraction-Perspective_from_Convolutional_Neural_Networks/review.md)
   * Thien Huu Nguyen and Ralph Grishman
   * NAACL 2015
-* Relation Classification via Multi-Level Attention CNNs [\[paper\]](http://aclweb.org/anthology/P16-1123) [\[code\]](https://github.com/lawlietAi/relation-classification-via-attention-model) ⭐ 178 | 🐛 5 | 🌐 Python | 📅 2022-08-23
+* Relation Classification via Multi-Level Attention CNNs [\[paper\]](http://aclweb.org/anthology/P16-1123) [\[code\]](https://github.com/lawlietAi/relation-classification-via-attention-model) ⭐ 179 | 🐛 5 | 🌐 Python | 📅 2022-08-23
   * Linlin Wang, Zhu Cao, Gerard de Melo and Zhiyuan Liu
   * ACL 2016
 * Classifying Relations by Ranking with Convolutional Neural Networks [\[paper\]](https://arxiv.org/abs/1504.06580) [\[code\]](https://github.com/pratapbhanu/CRCNN) ⭐ 58 | 🐛 0 | 🌐 Python | 📅 2018-07-19
@@ -131,7 +131,7 @@ A curated list of awesome resources dedicated to Relation Extraction, inspired b
 
 ### Distant Supervision Approaches
 
-* Neural Relation Extraction with Selective Attention over Instances [\[paper\]](http://www.aclweb.org/anthology/P16-1200) [\[code\]](https://github.com/thunlp/OpenNRE/) ⭐ 4,467 | 🐛 19 | 🌐 Python | 📅 2024-01-10
+* Neural Relation Extraction with Selective Attention over Instances [\[paper\]](http://www.aclweb.org/anthology/P16-1200) [\[code\]](https://github.com/thunlp/OpenNRE/) ⭐ 4,468 | 🐛 19 | 🌐 Python | 📅 2024-01-10
   * Yankai Lin, Shiqi Shen, Zhiyuan Liu, Huanbo Luan and Maosong Sun
   * ACL 2017
 * RESIDE: Improving Distantly-Supervised Neural Relation Extraction using Side Information [\[paper\]](http://malllabiisc.github.io/publications/papers/reside_emnlp18.pdf) [\[code\]](https://github.com/malllabiisc/RESIDE) ⭐ 248 | 🐛 5 | 🌐 CSS | 📅 2023-03-24
@@ -291,7 +291,7 @@ For state of the art results check out [nlpprogress.com on relation extraction](
 
 ## Frameworks
 
-* **OpenNRE** [\[github\]](https://github.com/thunlp/OpenNRE) ⭐ 4,467 | 🐛 19 | 🌐 Python | 📅 2024-01-10 [\[paper\]](https://aclanthology.org/D19-3029.pdf)
+* **OpenNRE** [\[github\]](https://github.com/thunlp/OpenNRE) ⭐ 4,468 | 🐛 19 | 🌐 Python | 📅 2024-01-10 [\[paper\]](https://aclanthology.org/D19-3029.pdf)
   * Is an open-source and extensible toolkit that provides a unified framework to implement neural models for relation extraction (RE) between named entities.
     It is designed for various scenarios for RE, including sentence-level RE, bag-level RE, document-level RE, and few-shot RE.
     It provides various functional RE modules based on both TensorFlow and PyTorch to maintain sufficient modularity and extensibility, making it becomes easy to incorporate new models into the framework.
@@ -325,4 +325,4 @@ To the extent possible under law, [Joohong Lee](https://roomylee.github.io/) has
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._

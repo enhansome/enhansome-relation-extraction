@@ -104,7 +104,7 @@
                     "open_issues": 5,
                     "owner": "dgai91",
                     "repo": "pytorch-acnn-model",
-                    "stars": 178,
+                    "stars": 179,
                     "topics": [
                       "acnn",
                       "attention-model",
@@ -361,7 +361,7 @@
                 "open_issues": 19,
                 "owner": "thunlp",
                 "repo": "OpenNRE",
-                "stars": 4467,
+                "stars": 4468,
                 "topics": [
                   "relation-extraction"
                 ]
@@ -682,7 +682,7 @@
             "open_issues": 19,
             "owner": "thunlp",
             "repo": "OpenNRE",
-            "stars": 4467,
+            "stars": 4468,
             "topics": [
               "relation-extraction"
             ]
@@ -780,7 +780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T15:14:22.053Z",
+    "last_updated": "2026-10-13T14:05:12.285Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A curated list of awesome resources dedicated to Relation Extraction, one of the most important tasks in Natural Language Processing (NLP).",
