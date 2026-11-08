@@ -361,7 +361,7 @@
                 "open_issues": 19,
                 "owner": "thunlp",
                 "repo": "OpenNRE",
-                "stars": 4468,
+                "stars": 4467,
                 "topics": [
                   "relation-extraction"
                 ]
@@ -682,7 +682,7 @@
             "open_issues": 19,
             "owner": "thunlp",
             "repo": "OpenNRE",
-            "stars": 4468,
+            "stars": 4467,
             "topics": [
               "relation-extraction"
             ]
@@ -780,7 +780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T12:53:27.735Z",
+    "last_updated": "2026-11-08T13:15:59.315Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A curated list of awesome resources dedicated to Relation Extraction, one of the most important tasks in Natural Language Processing (NLP).",
@@ -792,7 +792,7 @@
       "open_issues": 3,
       "owner": "roomylee",
       "repo": "awesome-relation-extraction",
-      "stars": 1227,
+      "stars": 1226,
       "topics": [
         "aaai",
         "acl",
