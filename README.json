@@ -492,7 +492,7 @@
                     "open_issues": 38,
                     "owner": "facebookresearch",
                     "repo": "SpanBERT",
-                    "stars": 907,
+                    "stars": 908,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:37:11.942Z"
@@ -780,7 +780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T15:35:20.525Z",
+    "last_updated": "2026-11-17T15:54:21.460Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A curated list of awesome resources dedicated to Relation Extraction, one of the most important tasks in Natural Language Processing (NLP).",
