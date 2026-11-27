@@ -2,7 +2,7 @@
 
 ![awesome\_re](https://user-images.githubusercontent.com/15166794/47858006-62aa7400-de2e-11e8-82d3-165f66aaaec4.png)
 
-A curated list of awesome resources dedicated to Relation Extraction, inspired by [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 19,184 | 🐛 2 | 📅 2026-11-20 and [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,198 | 🐛 47 | 📅 2023-08-15.
+A curated list of awesome resources dedicated to Relation Extraction, inspired by [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 19,187 | 🐛 3 | 📅 2026-11-20 and [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,197 | 🐛 47 | 📅 2023-08-15.
 
 **Contributing**: Please feel free to make *[pull requests](https://github.com/roomylee/awesome-relation-extraction/pulls)*.
 
@@ -295,7 +295,7 @@ For state of the art results check out [nlpprogress.com on relation extraction](
   * Is an open-source and extensible toolkit that provides a unified framework to implement neural models for relation extraction (RE) between named entities.
     It is designed for various scenarios for RE, including sentence-level RE, bag-level RE, document-level RE, and few-shot RE.
     It provides various functional RE modules based on both TensorFlow and PyTorch to maintain sufficient modularity and extensibility, making it becomes easy to incorporate new models into the framework.
-* **AREkit** [\[github\]](https://github.com/nicolay-r/AREkit) ⭐ 66 | 🐛 6 | 🌐 Python | 📅 2026-02-05 [\[research-applicable-paper\]](https://arxiv.org/pdf/2006.13730.pdf)
+* **AREkit** [\[github\]](https://github.com/nicolay-r/AREkit) ⭐ 67 | 🐛 6 | 🌐 Python | 📅 2026-02-05 [\[research-applicable-paper\]](https://arxiv.org/pdf/2006.13730.pdf)
   * Is an open-source and extensible toolkit focused on data preparation for document-level relation extraction organization.
     It complements the OpenNRE functionality, as in terms of the latter, *document-level RE setting is not widely explored* (2.4 [\[paper\]](https://aclanthology.org/D19-3029.pdf)).
     The core functionality includes
@@ -304,9 +304,9 @@ For state of the art results check out [nlpprogress.com on relation extraction](
     (2) API for contexts extraction
     (3) relations transferring from sentence-level onto document-level, etc.
     It provides
-    [neural networks](https://github.com/nicolay-r/AREkit/tree/0.21.0-rc/contrib/networks) ⭐ 66 | 🐛 6 | 🌐 Python | 📅 2026-02-05 (like OpenNRE)
+    [neural networks](https://github.com/nicolay-r/AREkit/tree/0.21.0-rc/contrib/networks) ⭐ 67 | 🐛 6 | 🌐 Python | 📅 2026-02-05 (like OpenNRE)
     and
-    [BERT](https://github.com/nicolay-r/AREkit/tree/0.21.0-rc/contrib/bert) ⭐ 66 | 🐛 6 | 🌐 Python | 📅 2026-02-05 modules,
+    [BERT](https://github.com/nicolay-r/AREkit/tree/0.21.0-rc/contrib/bert) ⭐ 67 | 🐛 6 | 🌐 Python | 📅 2026-02-05 modules,
     both applicable for sentiment attitude extraction task.
 * **DeRE** [\[github\]](https://github.com/ims-tcl/DeRE) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2019-01-15 [\[paper\]](https://aclanthology.org/D18-2008/)
   * Is an open-source framework for **de**claritive **r**elation **e**xtraction, and therefore allows to declare your own task (using XML schemas) and apply manually implemented models towards it (using a provided API).
@@ -325,4 +325,4 @@ To the extent possible under law, [Joohong Lee](https://roomylee.github.io/) has
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._

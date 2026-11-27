@@ -710,7 +710,7 @@
                 "open_issues": 6,
                 "owner": "nicolay-r",
                 "repo": "AREkit",
-                "stars": 66,
+                "stars": 67,
                 "topics": [
                   "batching",
                   "bulk-operation",
@@ -738,7 +738,7 @@
             "open_issues": 6,
             "owner": "nicolay-r",
             "repo": "AREkit",
-            "stars": 66,
+            "stars": 67,
             "topics": [
               "batching",
               "bulk-operation",
@@ -780,7 +780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T16:47:28.466Z",
+    "last_updated": "2026-11-27T16:32:59.845Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A curated list of awesome resources dedicated to Relation Extraction, one of the most important tasks in Natural Language Processing (NLP).",
